@@ -11,7 +11,7 @@ py==1.8.0
 pyaml==19.4.1
 pyparsing==2.4.5
 pytest==5.2.3
-PyYAML==5.1.2
+PyYAML==5.4
 six==1.13.0
 wcwidth==0.1.7
 zipp==0.6.0
